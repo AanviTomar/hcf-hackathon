@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Industrial Tag2Sheet AI",
+  "description": "An automated industrial inventory system that uses Gemini AI to extract machine part details from physical tags and manages a live, exportable Excel-formatted database.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
